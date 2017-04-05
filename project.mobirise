@@ -627,7 +627,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/0d68822cd2ba2ca828a80a1ce0be7cc4c1dde4be-2000x1336.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20686349146-8e63ce5da5-c-2000x1332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -636,9 +636,9 @@
                 "showTitle": true,
                 "title": "濟州Mr.KIM韓式炸雞",
                 "showText": true,
-                "text": "台北市文山區景興路30-1號<br>",
+                "text": "台中市大里區大里路103號<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ifoodie.tw/post/57499dca2756dd39cb4a00b6-%20spyci私宅咖哩炸雞%E2%80%A7鎖住肉汁黃金春雞,允指脆皮多汁炸雞in新店%5B食記%5D\" data-toolbar=\"-mbrBtnMove\">食記</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.facebook.com/spyci.fried.chick/\" data-toolbar=\"-mbrBtnMove\">Facebook<br></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://blackie0305.pixnet.net/blog/post/268880524-【台中%EF%BC%8E大里】【濟州-mr.kim-韓式炸雞】\" data-toolbar=\"-mbrBtnMove\">食記</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.facebook.com/jejumrkim/\" data-toolbar=\"-mbrBtnMove\">Facebook<br></a> "
               }
             ],
             "fullScreen": true,
