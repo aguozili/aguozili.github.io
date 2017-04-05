@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 31,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/12519576-1240344255993945-1528490007-n-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -112,7 +112,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/936695-755996727771917-8992002821050069199-n-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/936695_755996727771917_8992002821050069199_n-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
