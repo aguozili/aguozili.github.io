@@ -578,7 +578,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "1",
+            "timeout": "9",
             "slides": [
               {
                 "active": false,
@@ -595,7 +595,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/25802795826-46c0fa0848-c-2000x1335.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -626,7 +626,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://ifoodie.tw/post/57499dca2756dd39cb4a00b6-%20spyci私宅咖哩炸雞%E2%80%A7鎖住肉汁黃金春雞,允指脆皮多汁炸雞in新店%5B食記%5D\" data-toolbar=\"-mbrBtnMove\">食記</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.facebook.com/spyci.fried.chick/\" data-toolbar=\"-mbrBtnMove\">Facebook<br></a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/-2017-04-05-3-2000x1335.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
